@@ -5,8 +5,8 @@ Financial Sales Report Dashboard
 
 # 📝 Short Description / Purpose:
 
-The Financial Sales Report Dashboard provides a comprehensive overview of a company’s sales performance across different regions, products, and segments.
-Its main goal is to help management track key financial metrics such as total sales, profit, units sold, and gross sales, enabling data-driven business decisions.
+The data set provides complete information for retail transactions across geographies and product categories, which is intended for assessing sales trends, profitability, and consumer spending behaviors. 
+Each record indicates the sale of a unique SKU and provides information regarding units sold, sales, and gross margin.
 
 # 💻 Tech Stack:
 
