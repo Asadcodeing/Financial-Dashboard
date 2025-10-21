@@ -54,8 +54,6 @@ Total Profit
 
 Total Units Sold
 
-Total Gross Sales
-
 🗓️ Year-wise filter to view performance by 2013 and 2014
 
 🌍 Country filter for region-specific analysis (Canada, France, Germany, Mexico, USA)
@@ -72,4 +70,4 @@ Total Gross Sales
 
 # 🖼️ Screenshot:
 
-(You can insert your dashboard image here — e.g.,)
+Financial Sales Report https://github.com/Asadcodeing/Financial-Dashboard/blob/main/Screenshot%202025-10-21%20125105.png
