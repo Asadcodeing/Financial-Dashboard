@@ -71,3 +71,4 @@ Total Units Sold
 # 🖼️ Screenshot:
 
 Financial Sales Report https://github.com/Asadcodeing/Financial-Dashboard/blob/main/Screenshot%202025-10-21%20125105.png
+Financial Profit Report https://github.com/Asadcodeing/Financial-Dashboard/blob/main/Screenshot%202025-10-21%20130400.png
